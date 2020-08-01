@@ -1,3 +1,9 @@
+<p align="center">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/desafioShaweeSantander">
+<img alt="GitHub" src="https://img.shields.io/github/license/gpd38/desafioShaweeSantander">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gpd38/desafioShaweeSantander">
+</p>
+
 # Hackathon Santander Data Challenge (Frontend)
 
 O Hackathon Santander Data Challenge é uma maratona de dados com o objetivo de criar soluções inovadoras para desafios reais. O evento quer reunir cientistas e engenheiros de dados, e outros profissionais relacionados à essa área. 
