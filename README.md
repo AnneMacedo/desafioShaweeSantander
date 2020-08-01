@@ -76,7 +76,7 @@ Inserir as informações sobre ferramentas utilizadas neste projeto. . . . (trel
     <td><img alt="Foto do Rene" src="img/rene.jpg" /><br>Rene Jerez</td>
   </tr>
   <tr>
-    <td><a href="#">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/douglas-santos-sousa/">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/gustavopereiradias/">Linkedin</a></td>
     <td><a href="#">Linkedin</a></td>
     <td><a href="#">Linkedin</a></td>
