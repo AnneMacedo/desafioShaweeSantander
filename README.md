@@ -69,18 +69,18 @@ Inserir as informações sobre ferramentas utilizadas neste projeto. . . . (trel
 
 <table>
 <tr>
-    <td>👤<br>Douglas</td>
-    <td>👤<br>Gustavo Dias</td>
-    <td>👤<br>João Assis</td>
-    <td>👤<br>Karol Cardoso</td>
-    <td>👤<br>Rene Jerez</td>
+    <td><img alt="Foto do Douglas" src="img/douglas.jpg" /><br>Douglas</td>
+    <td><img alt="Foto do Gustavo" src="img/gustavo.jpg" /><br>Gustavo Dias</td>
+    <td><img alt="Foto do João" src="img/joao.jpg" /><br>João Assis</td>
+    <td><img alt="Foto da Karol" src="img/karol.jpg" /><br>Karol Cardoso</td>
+    <td><img alt="Foto do Rene" src="img/rene.jpg" /><br>Rene Jerez</td>
   </tr>
   <tr>
-    <td>Linkedin<br>Github<br></td>
-    <td>Linkedin<br>Github<br></td>
-    <td>Linkedin<br>Github<br></td>
-    <td>Linkedin<br>Github<br></td>
-    <td>Linkedin<br>Github<br></td>
+    <td>[Linkedin]()</td>
+    <td>[Linkedin](https://www.linkedin.com/in/gustavopereiradias/)</td>
+    <td>[Linkedin]()</td>
+    <td>[Linkedin]()</td>
+    <td>[Linkedin]()</td>
   </tr>
   </table>
 
