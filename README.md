@@ -4,7 +4,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gpd38/desafioShaweeSantander">
 </p>
 
-# Hackathon Santander Data Challenge (Frontend)
+# Hackathon Santander Data Challenge
 
 O Hackathon Santander Data Challenge é uma maratona de dados com o objetivo de criar soluções inovadoras para desafios reais. O evento quer reunir cientistas e engenheiros de dados, e outros profissionais relacionados à essa área. 
 
@@ -51,30 +51,35 @@ O Hackathon Santander Data Challenge é uma maratona de dados com o objetivo de 
 
 Veja todo o material produzido para este desafio nos seguintes links:
 
+- [Vídeo Pitch]()
+- [Vídeo Demo]()
 - [Apresentação em PDF]()
-- [Apresentação em Vídeo]()
-- [Protótipo Frontend]()
+- [Arquivo Dataset]()
 
 ## Projeto
 
 Detalhamento do projeto, como executar, outras informações. . . . .
+
+## Ferramentas
+
+Inserir as informações sobre ferramentas utilizadas neste projeto. . . . (trello, ferramenta dataset, etc...)
 
 ## Integrantes
 
 <table>
 <tr>
     <td>👤<br>Douglas</td>
-    <td>👤<br>Gustavo</td>
-    <td>👤<br>João</td>
-    <td>👤<br>Karol</td>
-    <td>👤<br>Rene</td>
+    <td>👤<br>Gustavo Dias</td>
+    <td>👤<br>João Assis</td>
+    <td>👤<br>Karol Cardoso</td>
+    <td>👤<br>Rene Jerez</td>
   </tr>
   <tr>
-    <td>Douglas<br>Linkedin<br>Github<br></td>
-    <td>Gustavo Dias<br>Linkedin<br>Github<br></td>
-    <td>João Assis<br>Linkedin<br>Github<br></td>
-    <td>Karol Cardoso<br>Linkedin<br>Github<br></td>
-    <td>Rene Jerez<br>Linkedin<br>Github<br></td>
+    <td>Linkedin<br>Github<br></td>
+    <td>Linkedin<br>Github<br></td>
+    <td>Linkedin<br>Github<br></td>
+    <td>Linkedin<br>Github<br></td>
+    <td>Linkedin<br>Github<br></td>
   </tr>
   </table>
 
