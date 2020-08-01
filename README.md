@@ -14,6 +14,7 @@ O Hackathon Santander Data Challenge é uma maratona de dados com o objetivo de 
   <a href="#desafio">Desafio</a> •
   <a href="#material">Material</a> •
   <a href="#projeto">Projeto</a> •
+  <a href="#ferramentas">Ferramentas</a> •
   <a href="#integrantes">Integrantes</a> •
   <a href="#licença">Licença</a>
 </p>
