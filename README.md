@@ -65,8 +65,15 @@ Utilizando estas técnicas podemos ajudar os restaurantes e bares a se adaptar e
 
 ## Ferramentas
 
-Trello para controle das tarefas e acompanhar o que os integrantes do projeto estão fazendo.
-Inserir as informações sobre ferramentas utilizadas neste projeto. . . . (trello, ferramenta dataset, etc...)
+<ul>
+<li>Trello</li>
+<li>IBM Watson Studio</li>
+<li>Miro</li>
+<li>GitHub</li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
 
 ## Integrantes
 
