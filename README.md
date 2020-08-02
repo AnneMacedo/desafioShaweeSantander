@@ -59,8 +59,8 @@ Veja todo o material produzido para este desafio nos seguintes links:
 
 ## Projeto
 
-<p>O projeto consiste em mostrar para os pequenos e médios empreendedores que o portal Phoenix foi criado para ajudar na previsão e predição do tráfego de pessoas nas regiões de São Paulo.<br>
-Utilizando estas técnicas podemos ajudar os restaurantes e bares a se adaptar e oferecer seus produtos, sem grandes perdas e com maior confiança, pois minimizaremos os prejuízos, aumentaremos os lucros e manteremos seu negócio com uma estabilidade maior.
+<p>O projeto consiste em mostrar para os pequenos e médios empreendedores que o portal Phoenix foi criado para ajudar na previsão e predição do tráfego de pessoas nas regiões de São Paulo.</p>
+<p>Utilizando estas técnicas podemos ajudar os restaurantes e bares a se adaptar e oferecer seus produtos, sem grandes perdas e com maior confiança, pois minimizaremos os prejuízos, aumentaremos os lucros e manteremos seu negócio com uma estabilidade maior.
 </p>
 
 ## Ferramentas
@@ -70,9 +70,13 @@ Utilizando estas técnicas podemos ajudar os restaurantes e bares a se adaptar e
 <li>IBM Watson Studio</li>
 <li>Miro</li>
 <li>GitHub</li>
-<li></li>
-<li></li>
-<li></li>
+<li>Sony Vegas</li>
+<li>Power Bi</li>
+<li>Python</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Java Script</li>
+<li>Bootstrap</li>
 </ul>
 
 ## Integrantes
