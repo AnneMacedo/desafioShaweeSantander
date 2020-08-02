@@ -59,10 +59,13 @@ Veja todo o material produzido para este desafio nos seguintes links:
 
 ## Projeto
 
-Detalhamento do projeto, como executar, outras informações. . . . .
+<p>O projeto consiste em mostrar para os pequenos e médios empreendedores que o portal Phoenix foi criado para ajudar na previsão e predição do tráfego de pessoas nas regiões de São Paulo.<br>
+Utilizando estas técnicas podemos ajudar os restaurantes e bares a se adaptar e oferecer seus produtos, sem grandes perdas e com maior confiança, pois minimizaremos os prejuízos, aumentaremos os lucros e manteremos seu negócio com uma estabilidade maior.
+</p>
 
 ## Ferramentas
 
+Trello para controle das tarefas e acompanhar o que os integrantes do projeto estão fazendo.
 Inserir as informações sobre ferramentas utilizadas neste projeto. . . . (trello, ferramenta dataset, etc...)
 
 ## Integrantes
@@ -79,7 +82,7 @@ Inserir as informações sobre ferramentas utilizadas neste projeto. . . . (trel
     <td><a href="https://www.linkedin.com/in/douglas-santos-sousa/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/gustavopereiradias/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/jvitorassis/" target="_blank">Linkedin</a></td>
-    <td><a href="#" target="_blank">Linkedin</a></td>
+    <td><a href="https://www.linkedin.com/in/karoline-cardoso-50787a133/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/renejerez/" target="_blank">Linkedin</a></td>
   </tr>
   </table>
