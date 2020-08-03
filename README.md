@@ -52,15 +52,16 @@ O Hackathon Santander Data Challenge é uma maratona de dados com o objetivo de 
 
 Veja todo o material produzido para este desafio nos seguintes links:
 
-- [Vídeo Pitch]()
-- [Vídeo Demo]()
-- [Apresentação em PDF]()
-- [Arquivo Dataset]()
+- [Vídeo Pitch](https://www.youtube.com/watch?v=ccsShi_OQes&feature=youtu.be)
+- [Vídeo Demo](https://www.youtube.com/watch?v=5OKWfBvLui0&feature=youtu.be)
+- [Apresentação em PDF](https://docs.google.com/presentation/d/1m8kq7SwjirGGPz30uzie9KGO2NRp0tqN9tXSz8Hkm38/edit#slide=id.p)
+- [Site utilizando a Solução](https://douglasjim.github.io/hackthonSantander/)
 
 ## Projeto
 
-<p>O projeto consiste em mostrar para os pequenos e médios empreendedores que o portal Phoenix foi criado para ajudar na previsão e predição do tráfego de pessoas nas regiões de São Paulo.</p>
-<p>Utilizando estas técnicas podemos ajudar os restaurantes e bares a se adaptar e oferecer seus produtos, sem grandes perdas e com maior confiança, pois minimizaremos os prejuízos, aumentaremos os lucros e manteremos seu negócio com uma estabilidade maior.
+<p>O Portal Phoenix oferece para o usuário um serviço de previsão e estimativa, com base em dados disponibilizados por empresas de transporte e geolocalização, de trafego de pessoas em determinadas regiões.
+</p>
+<pA>ssim, o MEI terá como atender as demandas do mercado, preparando-se com antecedência para alocar mais ou menos recursos conforme as estimativas fornecidas, evitando percas e prejuízos de estoque e produtos perecíveis.
 </p>
 
 ## Ferramentas
@@ -83,7 +84,7 @@ Veja todo o material produzido para este desafio nos seguintes links:
 
 <table>
 <tr>
-    <td><img alt="Foto do Douglas" src="img/douglas.jpg" /><br>Douglas</td>
+    <td><img alt="Foto do Douglas" src="img/douglas.jpg" /><br>Douglas Santos</td>
     <td><img alt="Foto do Gustavo" src="img/gustavo.jpg" /><br>Gustavo Dias</td>
     <td><img alt="Foto do João" src="img/joao.jpg" /><br>João Assis</td>
     <td><img alt="Foto da Karol" src="img/karol.jpg" /><br>Karol Cardoso</td>
